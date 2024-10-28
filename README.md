@@ -30,7 +30,7 @@ Technologies Used
 
 Backend: Spring Boot, Spring Security
 
-Database: (Specify the database if any, e.g., MySQL or H2)
+Database: MySQL
 
 Frontend: Thymeleaf, HTML, CSS
 
